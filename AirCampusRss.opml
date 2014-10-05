@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>AirCampus Export</title>
+</head>
+<body>
+	<outline text="RSS">
+		<outline text="ビジネス・ブレークスルー">
+			<outline type="rss" text="大前研一「ニュースの視点」WEB" title="大前研一「ニュースの視点」WEB" xmlUrl="http://www.lt-empower.com/koblog/atom.xml" htmlUrl="http://www.lt-empower.com/" description="大前研一流問題解決を高める論理的思考で、日々のニュースの本質に迫る！毎週更新《ニュースの視点》WEB"/>
+			<outline type="rss" text="ビジネス・ブレークスルー大学大学院" title="ビジネス・ブレークスルー大学大学院" xmlUrl="http://www.ohmae.ac.jp/news/feed/rdf/" description="持ち運べる、ＭＢＡ大学院。"/>
+		</outline>
+		<outline text="おすすめニュース">
+			<outline type="rss" text="朝日新聞デジタル" title="朝日新聞デジタル" xmlUrl="http://www3.asahi.com/rss/index.rdf" htmlUrl="http://www.asahi.com/" description="朝日新聞デジタル"/>
+			<outline text="日本経済新聞">
+				<outline type="rss" text="日本経済新聞電子版：政治" title="日本経済新聞電子版：政治" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/seiji.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195166008122009000000" description="政治" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：国際" title="日本経済新聞電子版：国際" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/kaigai.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195570008122009000000" description="国際" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：経済" title="日本経済新聞電子版：経済" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/keizai.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195164008122009000000" description="経済" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：マーケット" title="日本経済新聞電子版：マーケット" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/market.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195576008122009000000" description="マーケット" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：企業" title="日本経済新聞電子版：企業" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/sangyo.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195165008122009000000" description="企業" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：科学" title="日本経済新聞電子版：科学" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/kagaku.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195166008122009000000" description="科学" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：インターネット" title="日本経済新聞電子版：インターネット" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/net.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195590008122009000000" description="インターネット" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：教育" title="日本経済新聞電子版：教育" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/edu.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195592008122009000000" description="教育" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：財務" title="日本経済新聞電子版：財務" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/zaimu.xml" htmlUrl="http://www.nikkei.com/news/category/at=DGXZZO0195577008122009000000" description="財務" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：人事" title="日本経済新聞電子版：人事" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/jinji.xml" htmlUrl="http://www.nikkei.com/news/jinji/" description="人事" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+				<outline type="rss" text="日本経済新聞電子版：おくやみ" title="日本経済新聞電子版：おくやみ" xmlUrl="http://www.bbt757.com/ac/feeds/nikkei/okuyami.xml" htmlUrl="http://www.nikkei.com/news/okuyami/" description="おくやみ" bodyBeginPattern="&lt;div class=&quot;cmn-article_text JSID_key_fonttxt&quot;&gt;" bodyEndPattern="&lt;div class=&quot;bs-pulldown cmn-clearfix&quot; id=&quot;JSID_formKIJIToolBottom_unauthsave&quot; style=&quot;display: none;&quot;&gt;"/>
+			</outline>
+			<outline text="日経BP">
+				<outline type="rss" text="nikkei BPnet 「全分野」最新記事一覧" title="nikkei BPnet 「全分野」最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/index.rdf" description="nikkei BPnetがお届けする「全分野」最新記事一覧"/>
+				<outline type="rss" text="BPnetビズカレッジ 最新記事一覧" title="BPnetビズカレッジ 最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/career.rdf" description="nikkei BPnetがお届けする「BPnetビズカレッジ」の最新記事一覧（1時間毎に更新）"/>
+				<outline type="rss" text="nikkei BPnet 「時評コラム」最新記事一覧" title="nikkei BPnet 「時評コラム」最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/jihyo.rdf" description="nikkei BPnetがお届けする「時評コラム」の最新記事一覧（1時間毎に更新）"/>
+				<outline type="rss" text="nikkei BPnet 「企業・経営」最新記事一覧" title="nikkei BPnet 「企業・経営」最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/business.rdf" description="nikkei BPnetがお届けする「企業・経営」の最新記事一覧（1時間毎に更新）"/>
+				<outline type="rss" text="nikkei BPnet 「電子・機械」最新記事一覧" title="nikkei BPnet 「電子・機械」最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/manufacture.rdf" description="nikkei BPnetがお届けする「電子・機械」の最新記事一覧（1時間毎に更新）"/>
+				<outline type="rss" text="nikkei BPnet 「建設」最新記事一覧" title="nikkei BPnet 「建設」最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/architecture.rdf" description="nikkei BPnetがお届けする「建設」の最新記事一覧（1時間毎に更新）"/>
+				<outline type="rss" text="nikkei BPnet 「環境」最新記事一覧" title="nikkei BPnet 「環境」最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/ecology.rdf" description="nikkei BPnetがお届けする「環境」の最新記事一覧（1時間毎に更新）"/>
+				<outline type="rss" text="nikkei BPnet 「パソコン」最新記事一覧" title="nikkei BPnet 「パソコン」最新記事一覧" xmlUrl="http://feed.nikkeibp.co.jp/rss/nikkeibp/pc.rdf" description="nikkei BPnetがお届けする「パソコン」の最新記事一覧（1時間毎に更新）"/>
+				<outline type="rss" text="nikkei TRENDYnet（日経トレンディネット） - デジタル ニュース" title="nikkei TRENDYnet（日経トレンディネット） - デジタル ニュース" xmlUrl="http://www.nikkeibp.co.jp/lc/rss/digital_news.rdf" description="日経BP社のトレンドウォッチポータル「TRENDYnet」のデジタル面。デジタル機器（PC、デジカメ、ケータイ、デジタルAV）などのニュースを提供"/>
+			</outline>
+		</outline>
+		<outline text="経済レポート情報">
+			<outline type="rss" text="中国：経済レポート一覧" title="中国：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/china.xml" description="「中国」の経済レポートを紹介。本日の新規掲載数は20本です。"/>
+			<outline type="rss" text="欧州全般：経済レポート一覧" title="欧州全般：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/eu.xml" description="「欧州全般」の経済レポートを紹介。本日の新規掲載数は7本です。"/>
+			<outline type="rss" text="物流・倉庫・輸送：経済レポート一覧" title="物流・倉庫・輸送：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/logistic.xml" description="「物流・倉庫・輸送」の経済レポートを紹介。本日の新規掲載数は0本です。"/>
+			<outline type="rss" text="米国全般：経済レポート一覧" title="米国全般：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/usa.xml" description="「米国全般」の経済レポートを紹介。本日の新規掲載数は1本です。"/>
+			<outline type="rss" text="経済全般：経済レポート一覧" title="経済全般：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/keizai.xml" description="「経済全般」の経済レポートを紹介。本日の新規掲載数は7本です。"/>
+			<outline type="rss" text="行政・財政：経済レポート一覧" title="行政・財政：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/zaisei.xml" description="「行政・財政」の経済レポートを紹介。本日の新規掲載数は3本です。"/>
+			<outline type="rss" text="経営総合：経済レポート一覧" title="経営総合：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/keiei.xml" description="「経営総合」の経済レポートを紹介。本日の新規掲載数は6本です。"/>
+			<outline type="rss" text="金融総合：経済レポート一覧" title="金融総合：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/finance.xml" description="「金融総合」の経済レポートを紹介。本日の新規掲載数は36本です。"/>
+			<outline type="rss" text="銀行・金融機関：経済レポート一覧" title="銀行・金融機関：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/bank.xml" description="「銀行・金融機関」の経済レポートを紹介。本日の新規掲載数は7本です。"/>
+			<outline type="rss" text="証券・投資：経済レポート一覧" title="証券・投資：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/investment.xml" description="「証券・投資」の経済レポートを紹介。本日の新規掲載数は13本です。"/>
+			<outline type="rss" text="経済見通し：経済レポート一覧" title="経済見通し：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/outlook.xml" description="「経済見通し」の経済レポートを紹介。本日の新規掲載数は1本です。"/>
+			<outline type="rss" text="外国為替・通貨：経済レポート一覧" title="外国為替・通貨：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/kawase.xml" description="「外国為替・通貨」の経済レポートを紹介。本日の新規掲載数は3本です。"/>
+			<outline type="rss" text="産業総合：経済レポート一覧" title="産業総合：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/maker.xml" description="「産業総合」の経済レポートを紹介。本日の新規掲載数は31本です。"/>
+			<outline type="rss" text="輸送用機器：経済レポート一覧" title="輸送用機器：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/tm.xml" description="「輸送用機器」の経済レポートを紹介。本日の新規掲載数は2本です。"/>
+			<outline type="rss" text="産業総合：経済レポート一覧" title="産業総合：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/service.xml" description="「産業総合」の経済レポートを紹介。本日の新規掲載数は31本です。"/>
+			<outline type="rss" text="繊維・アパレル：経済レポート一覧" title="繊維・アパレル：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/textile.xml" description="「繊維・アパレル」の経済レポートを紹介。本日の新規掲載数は0本です。"/>
+			<outline type="rss" text="健康・医療：経済レポート一覧" title="健康・医療：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/medical.xml" description="「健康・医療」の経済レポートを紹介。本日の新規掲載数は1本です。"/>
+			<outline type="rss" text="海外経済・国際機関：経済レポート一覧" title="海外経済・国際機関：経済レポート一覧" xmlUrl="http://www3.keizaireport.com/rss/kaigai.xml" description="「海外経済・国際機関」の経済レポートを紹介。本日の新規掲載数は44本です。"/>
+			<outline type="rss" text="最新：経済レポート一覧。新規掲載：125" title="最新：経済レポート一覧。新規掲載：125" xmlUrl="http://www3.keizaireport.com/rss/newreport.xml" description="「最新」の経済レポートを紹介。本日の新規掲載数は125本です。"/>
+		</outline>
+		<outline text="英字ニュース">
+			<outline text="CNN">
+				<outline type="rss" text="CNN.com - Top Stories" title="CNN.com - Top Stories" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - World" title="CNN.com - World" xmlUrl="http://rss.cnn.com/rss/cnn_world.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - U.S." title="CNN.com - U.S." xmlUrl="http://rss.cnn.com/rss/cnn_us.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - Politics" title="CNN.com - Politics" xmlUrl="http://rss.cnn.com/rss/cnn_allpolitics.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - Law" title="CNN.com - Law" xmlUrl="http://rss.cnn.com/rss/cnn_law.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - Technology" title="CNN.com - Technology" xmlUrl="http://rss.cnn.com/rss/cnn_tech.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - Health" title="CNN.com - Health" xmlUrl="http://rss.cnn.com/rss/cnn_health.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - Entertainment" title="CNN.com - Entertainment" xmlUrl="http://rss.cnn.com/rss/cnn_showbiz.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="CNN.com - Education" title="CNN.com - Education" xmlUrl="http://rss.cnn.com/rss/cnn_education.rss" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+				<outline type="rss" text="Latest financial news - CNNMoney.com" title="Latest financial news - CNNMoney.com" xmlUrl="http://rss.cnn.com/rss/money_latest.rss" description="CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions."/>
+			</outline>
+			<outline text="BusinessWeek">
+				<outline type="rss" text="BusinessWeek.com -- Top News" title="BusinessWeek.com -- Top News" xmlUrl="http://www.businessweek.com/rss/bwdaily.rss"/>
+				<outline type="rss" text="BusinessWeek.com -- Technology" title="BusinessWeek.com -- Technology" xmlUrl="http://www.businessweek.com/rss/technology.rss"/>
+				<outline type="rss" text="BusinessWeek.com -- Investing" title="BusinessWeek.com -- Investing" xmlUrl="http://www.businessweek.com/rss/investor.rss"/>
+				<outline type="rss" text="BusinessWeek.com -- Business Schools" title="BusinessWeek.com -- Business Schools" xmlUrl="http://www.businessweek.com/rss/bschools.rss"/>
+				<outline type="rss" text="BusinessWeek.com -- Magazine" title="BusinessWeek.com -- Magazine" xmlUrl="http://www.businessweek.com/rss/magazine.rss"/>
+			</outline>
+			<outline text="Yahoo! News">
+				<outline type="rss" text="Yahoo! News: Top Stories" title="Yahoo! News: Top Stories" xmlUrl="http://rss.news.yahoo.com/rss/topstories" description="Top Stories"/>
+				<outline type="rss" text="U.S. News Headlines - Yahoo! News" title="U.S. News Headlines - Yahoo! News" xmlUrl="http://rss.news.yahoo.com/rss/us" description="Get the latest U.S. news headlines from Yahoo! News. Find breaking U.S. news, including analysis and opinion on top U.S. stories."/>
+				<outline type="rss" text="World News Headlines - Yahoo News" title="World News Headlines - Yahoo News" xmlUrl="http://rss.news.yahoo.com/rss/world" description="Get the latest world news headlines from Yahoo News. Find breaking world news, including analysis and opinion on top&#xA;world stories."/>
+				<outline type="rss" text="Politics News Headlines - Yahoo News" title="Politics News Headlines - Yahoo News" xmlUrl="http://rss.news.yahoo.com/rss/politics" description="Get the latest Politics news headlines from Yahoo News. Find breaking Politics news, including analysis and opinion on top Politics stories."/>
+				<outline type="rss" text="Business News Headlines - Yahoo! News" title="Business News Headlines - Yahoo! News" xmlUrl="http://rss.news.yahoo.com/rss/business" description="Get the latest Business news headlines from Yahoo! News. Find breaking business news, including analysis and opinion on top business stories."/>
+				<outline type="rss" text="Science News Headlines - Yahoo News" title="Science News Headlines - Yahoo News" xmlUrl="http://rss.news.yahoo.com/rss/science" description="Get the latest Science news headlines from Yahoo News. Find breaking Science news, including analysis and opinion on top Science stories."/>
+				<outline type="rss" text="Tech News Headlines - Yahoo News" title="Tech News Headlines - Yahoo News" xmlUrl="http://rss.news.yahoo.com/rss/tech" description="Get the latest Tech news headlines from Yahoo News. Find breaking Tech news, including analysis and opinion on top Tech stories."/>
+			</outline>
+		</outline>
+	</outline>
+</body>
+</opml>
